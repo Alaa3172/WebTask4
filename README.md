@@ -285,3 +285,6 @@ $conn->close();
 ```
 
 Closes the prepared statement and the database connection.
+
+## Test
+A video demonstrating the results can be found in the repository titled __'speech_to_text_test'__.
